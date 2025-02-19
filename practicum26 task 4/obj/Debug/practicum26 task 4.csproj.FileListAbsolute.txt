@@ -1,0 +1,7 @@
+D:\Project\practicum26 task 4\bin\Debug\practicum26 task 4.exe.config
+D:\Project\practicum26 task 4\bin\Debug\practicum26 task 4.exe
+D:\Project\practicum26 task 4\bin\Debug\practicum26 task 4.pdb
+D:\Project\practicum26 task 4\obj\Debug\practicum26 task 4.csproj.AssemblyReference.cache
+D:\Project\practicum26 task 4\obj\Debug\practicum26 task 4.csproj.CoreCompileInputs.cache
+D:\Project\practicum26 task 4\obj\Debug\practicum26 task 4.exe
+D:\Project\practicum26 task 4\obj\Debug\practicum26 task 4.pdb
